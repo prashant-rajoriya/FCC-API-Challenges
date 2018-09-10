@@ -1,6 +1,10 @@
 {
   "author": "Prashant Rajoriya",
   "name": "fcc-learn-npm-package-json",
+  "description":"Learning project from FCC",
+  "keywords":[ "npm", "freecodecamp", "learning"],
+  "license":"MIT",
+  "version":"0.0.1",
   "dependencies": {
     "express": "^4.16.3"
   },
